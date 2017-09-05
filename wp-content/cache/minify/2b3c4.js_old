@@ -1,0 +1,13 @@
+/*
+ * Dynamic To Top Plugin
+ * http://www.mattvarone.com
+ *
+ * By Matt Varone
+ * @sksmatt
+ *
+ */
+var mv_dynamic_to_top;(function($,mv_dynamic_to_top){jQuery.fn.DynamicToTop=function(options){var defaults={text:mv_dynamic_to_top.text,min:parseInt(mv_dynamic_to_top.min,10),fade_in:600,fade_out:400,speed:parseInt(mv_dynamic_to_top.speed,10),easing:mv_dynamic_to_top.easing,version:mv_dynamic_to_top.version,id:'dynamic-to-top'},settings=$.extend(defaults,options);if(settings.version===""||settings.version==='0'){settings.text='<span>&nbsp;</span>';}
+if(!$.isFunction(settings.easing)){settings.easing='linear';}
+var $toTop=$('<a href=\"#\" id=\"'+settings.id+'\"></a>').html(settings.text);$toTop.hide().appendTo('body').click(function(){$('html, body').stop().animate({scrollTop:0},settings.speed,settings.easing);return false;});$(window).scroll(function(){var sd=jQuery(window).scrollTop();if(typeof document.body.style.maxHeight==="undefined"){$toTop.css({'position':'absolute','top':sd+$(window).height()-mv_dynamic_to_top.margin});}
+if(sd>settings.min){$toTop.fadeIn(settings.fade_in);}else{$toTop.fadeOut(settings.fade_out);}});};$('body').DynamicToTop();})(jQuery,mv_dynamic_to_top);
+;!function(a){a.fn.hoverIntent=function(b,c,d){var e={interval:100,sensitivity:6,timeout:0};e="object"==typeof b?a.extend(e,b):a.isFunction(c)?a.extend(e,{over:b,out:c,selector:d}):a.extend(e,{over:b,out:b,selector:c});var f,g,h,i,j=function(a){f=a.pageX,g=a.pageY},k=function(b,c){return c.hoverIntent_t=clearTimeout(c.hoverIntent_t),Math.sqrt((h-f)*(h-f)+(i-g)*(i-g))<e.sensitivity?(a(c).off("mousemove.hoverIntent",j),c.hoverIntent_s=!0,e.over.apply(c,[b])):(h=f,i=g,c.hoverIntent_t=setTimeout(function(){k(b,c)},e.interval),void 0)},l=function(a,b){return b.hoverIntent_t=clearTimeout(b.hoverIntent_t),b.hoverIntent_s=!1,e.out.apply(b,[a])},m=function(b){var c=a.extend({},b),d=this;d.hoverIntent_t&&(d.hoverIntent_t=clearTimeout(d.hoverIntent_t)),"mouseenter"===b.type?(h=c.pageX,i=c.pageY,a(d).on("mousemove.hoverIntent",j),d.hoverIntent_s||(d.hoverIntent_t=setTimeout(function(){k(c,d)},e.interval))):(a(d).off("mousemove.hoverIntent",j),d.hoverIntent_s&&(d.hoverIntent_t=setTimeout(function(){l(c,d)},e.timeout)))};return this.on({"mouseenter.hoverIntent":m,"mouseleave.hoverIntent":m},e.selector)}}(jQuery);

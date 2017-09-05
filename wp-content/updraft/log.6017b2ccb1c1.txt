@@ -1,0 +1,803 @@
+0000.000 (0) Opened log file at time: Fri, 12 May 2017 04:31:37 +0000 on http://omnikron.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.1 WP: 4.7.4 PHP: 5.5.38 (apache2handler, Linux host.omnikroncampus.com 2.6.32-042stab111.11 #1 SMP Thu Oct 27 16:59:03 MSK 2016 x86_64) MySQL: 5.6.35 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.4M | 15.3M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 98441.7 MB
+0000.003 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: weekly)
+0000.006 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.008 (0) Set semaphore last lock (fd) time to 2017-05-12 04:31:37
+0000.009 (0) Semaphore lock (fd) complete
+0000.014 (0) Backup run: resumption=0, nonce=6017b2ccb1c1, begun at=1494563497 (0s ago), job type=backup
+0000.016 (0) Scheduling a resumption (1) after 600 seconds (1494564097) in case this run gets aborted
+0000.071 (0) OpenVZ; reported memory: 6656 MB
+0000.072 (0) Checking if we have a zip executable available
+0000.074 (0) Creation of backups of directories: beginning
+0000.077 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.651 (0) Total entities for the zip file: 1701 directories, 14167 files (0 skipped as non-modified), 184.7 MB
+0001.718 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.730 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.741 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.754 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.767 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.768 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 14167 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.862 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 600 files added (on-disk size: 1757.2 KB)
+0002.879 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 700 files added (on-disk size: 1757.2 KB)
+0002.894 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 800 files added (on-disk size: 1757.2 KB)
+0002.908 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 900 files added (on-disk size: 1757.2 KB)
+0002.925 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 1000 files added (on-disk size: 1757.2 KB)
+0002.927 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.5 MB, 14167 files batched, 501 (1002) added so far); re-opening (prior size: 1757.2 KB)
+0005.507 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 1100 files added (on-disk size: 11572.4 KB)
+0005.522 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 1200 files added (on-disk size: 11572.4 KB)
+0005.538 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 1300 files added (on-disk size: 11572.4 KB)
+0005.553 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 1400 files added (on-disk size: 11572.4 KB)
+0005.570 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 1500 files added (on-disk size: 11572.4 KB)
+0005.571 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.3 MB, 14167 files batched, 501 (1503) added so far); re-opening (prior size: 11572.4 KB)
+0006.681 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 1600 files added (on-disk size: 12117.9 KB)
+0006.721 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 1700 files added (on-disk size: 12117.9 KB)
+0006.740 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 1800 files added (on-disk size: 12117.9 KB)
+0006.758 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 1900 files added (on-disk size: 12117.9 KB)
+0006.776 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 2000 files added (on-disk size: 12117.9 KB)
+0006.779 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.7 MB, 14167 files batched, 501 (2004) added so far); re-opening (prior size: 12117.9 KB)
+0009.021 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 2100 files added (on-disk size: 16278.6 KB)
+0009.040 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 2200 files added (on-disk size: 16278.6 KB)
+0009.059 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 2300 files added (on-disk size: 16278.6 KB)
+0009.079 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 2400 files added (on-disk size: 16278.6 KB)
+0009.099 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 2500 files added (on-disk size: 16278.6 KB)
+0009.101 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (18.1 MB, 14167 files batched, 501 (2505) added so far); re-opening (prior size: 16278.6 KB)
+0010.492 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 2600 files added (on-disk size: 31010.1 KB)
+0010.513 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 2700 files added (on-disk size: 31010.1 KB)
+0010.536 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 2800 files added (on-disk size: 31010.1 KB)
+0010.560 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 2900 files added (on-disk size: 31010.1 KB)
+0010.583 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 3000 files added (on-disk size: 31010.1 KB)
+0010.585 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.8 MB, 14167 files batched, 501 (3006) added so far); re-opening (prior size: 31010.1 KB)
+0011.098 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 3100 files added (on-disk size: 32960.9 KB)
+0011.122 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 3200 files added (on-disk size: 32960.9 KB)
+0011.145 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 3300 files added (on-disk size: 32960.9 KB)
+0011.170 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 3400 files added (on-disk size: 32960.9 KB)
+0011.195 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 3500 files added (on-disk size: 32960.9 KB)
+0011.198 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.7 MB, 14167 files batched, 501 (3507) added so far); re-opening (prior size: 32960.9 KB)
+0013.363 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 3600 files added (on-disk size: 35358.7 KB)
+0013.391 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 3700 files added (on-disk size: 35358.7 KB)
+0013.420 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 3800 files added (on-disk size: 35358.7 KB)
+0013.446 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 3900 files added (on-disk size: 35358.7 KB)
+0013.473 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 4000 files added (on-disk size: 35358.7 KB)
+0013.476 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3 MB, 14167 files batched, 501 (4008) added so far); re-opening (prior size: 35358.7 KB)
+0014.167 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 4100 files added (on-disk size: 36526.4 KB)
+0014.196 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 4200 files added (on-disk size: 36526.4 KB)
+0014.225 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 4300 files added (on-disk size: 36526.4 KB)
+0014.252 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 4400 files added (on-disk size: 36526.4 KB)
+0014.282 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 4500 files added (on-disk size: 36526.4 KB)
+0014.317 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.1 MB, 14167 files batched, 501 (4509) added so far); re-opening (prior size: 36526.4 KB)
+0014.935 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 4600 files added (on-disk size: 37957.2 KB)
+0014.961 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 4700 files added (on-disk size: 37957.2 KB)
+0014.986 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 4800 files added (on-disk size: 37957.2 KB)
+0015.014 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 4900 files added (on-disk size: 37957.2 KB)
+0015.040 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 5000 files added (on-disk size: 37957.2 KB)
+0015.044 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.9 MB, 14167 files batched, 501 (5010) added so far); re-opening (prior size: 37957.2 KB)
+0016.703 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 5100 files added (on-disk size: 40113.1 KB)
+0016.753 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 5200 files added (on-disk size: 40113.1 KB)
+0016.781 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 5300 files added (on-disk size: 40113.1 KB)
+0016.810 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 5400 files added (on-disk size: 40113.1 KB)
+0016.840 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 5500 files added (on-disk size: 40113.1 KB)
+0016.845 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.3 MB, 14167 files batched, 501 (5511) added so far); re-opening (prior size: 40113.1 KB)
+0021.947 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 5600 files added (on-disk size: 44098.9 KB)
+0021.987 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 5700 files added (on-disk size: 44098.9 KB)
+0022.018 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 5800 files added (on-disk size: 44098.9 KB)
+0022.049 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 5900 files added (on-disk size: 44098.9 KB)
+0022.078 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 6000 files added (on-disk size: 44098.9 KB)
+0022.083 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.1 MB, 14167 files batched, 501 (6012) added so far); re-opening (prior size: 44098.9 KB)
+0023.399 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 6100 files added (on-disk size: 46156.6 KB)
+0023.431 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 6200 files added (on-disk size: 46156.6 KB)
+0023.464 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 6300 files added (on-disk size: 46156.6 KB)
+0023.496 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 6400 files added (on-disk size: 46156.6 KB)
+0023.527 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 6500 files added (on-disk size: 46156.6 KB)
+0023.532 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (24.8 MB, 14167 files batched, 501 (6513) added so far); re-opening (prior size: 46156.6 KB)
+0026.494 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 6600 files added (on-disk size: 68485 KB)
+0026.527 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 6700 files added (on-disk size: 68485 KB)
+0026.560 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 6800 files added (on-disk size: 68485 KB)
+0026.594 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 6900 files added (on-disk size: 68485 KB)
+0026.628 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 7000 files added (on-disk size: 68485 KB)
+0026.634 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.7 MB, 14167 files batched, 501 (7014) added so far); re-opening (prior size: 68485 KB)
+0027.510 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 7100 files added (on-disk size: 69940.9 KB)
+0027.545 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 7200 files added (on-disk size: 69940.9 KB)
+0027.578 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 7300 files added (on-disk size: 69940.9 KB)
+0027.611 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 7400 files added (on-disk size: 69940.9 KB)
+0027.652 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 7500 files added (on-disk size: 69940.9 KB)
+0027.662 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.1 MB, 14167 files batched, 501 (7515) added so far); re-opening (prior size: 69940.9 KB)
+0028.469 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 7600 files added (on-disk size: 71518.5 KB)
+0028.530 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 7700 files added (on-disk size: 71518.5 KB)
+0028.568 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 7800 files added (on-disk size: 71518.5 KB)
+0028.607 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 7900 files added (on-disk size: 71518.5 KB)
+0028.648 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 8000 files added (on-disk size: 71518.5 KB)
+0028.656 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.2 MB, 14167 files batched, 501 (8016) added so far); re-opening (prior size: 71518.5 KB)
+0029.821 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 8100 files added (on-disk size: 76175.3 KB)
+0029.882 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 8200 files added (on-disk size: 76175.3 KB)
+0029.921 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 8300 files added (on-disk size: 76175.3 KB)
+0029.959 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 8400 files added (on-disk size: 76175.3 KB)
+0029.996 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 8500 files added (on-disk size: 76175.3 KB)
+0030.004 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.6 MB, 14167 files batched, 501 (8517) added so far); re-opening (prior size: 76175.3 KB)
+0031.514 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 8600 files added (on-disk size: 77875.2 KB)
+0031.553 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 8700 files added (on-disk size: 77875.2 KB)
+0031.592 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 8800 files added (on-disk size: 77875.2 KB)
+0031.632 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 8900 files added (on-disk size: 77875.2 KB)
+0031.672 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 9000 files added (on-disk size: 77875.2 KB)
+0031.680 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3 MB, 14167 files batched, 501 (9018) added so far); re-opening (prior size: 77875.2 KB)
+0032.812 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 9100 files added (on-disk size: 79392.2 KB)
+0032.853 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 9200 files added (on-disk size: 79392.2 KB)
+0032.891 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 9300 files added (on-disk size: 79392.2 KB)
+0032.929 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 9400 files added (on-disk size: 79392.2 KB)
+0032.969 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 9500 files added (on-disk size: 79392.2 KB)
+0032.977 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.6 MB, 14167 files batched, 501 (9519) added so far); re-opening (prior size: 79392.2 KB)
+0034.560 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 9600 files added (on-disk size: 80294 KB)
+0034.601 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 9700 files added (on-disk size: 80294 KB)
+0034.643 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 9800 files added (on-disk size: 80294 KB)
+0034.687 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 9900 files added (on-disk size: 80294 KB)
+0034.731 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 10000 files added (on-disk size: 80294 KB)
+0034.741 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.9 MB, 14167 files batched, 501 (10020) added so far); re-opening (prior size: 80294 KB)
+0035.466 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 10100 files added (on-disk size: 80685.2 KB)
+0035.507 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 10200 files added (on-disk size: 80685.2 KB)
+0035.550 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 10300 files added (on-disk size: 80685.2 KB)
+0035.592 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 10400 files added (on-disk size: 80685.2 KB)
+0035.635 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 10500 files added (on-disk size: 80685.2 KB)
+0035.646 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.6 MB, 14167 files batched, 501 (10521) added so far); re-opening (prior size: 80685.2 KB)
+0036.794 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 10600 files added (on-disk size: 83729 KB)
+0036.837 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 10700 files added (on-disk size: 83729 KB)
+0036.884 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 10800 files added (on-disk size: 83729 KB)
+0036.928 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 10900 files added (on-disk size: 83729 KB)
+0036.973 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 11000 files added (on-disk size: 83729 KB)
+0036.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.5 MB, 14167 files batched, 501 (11022) added so far); re-opening (prior size: 83729 KB)
+0038.260 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 11100 files added (on-disk size: 85033.5 KB)
+0038.308 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 11200 files added (on-disk size: 85033.5 KB)
+0038.354 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 11300 files added (on-disk size: 85033.5 KB)
+0038.403 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 11400 files added (on-disk size: 85033.5 KB)
+0038.450 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 11500 files added (on-disk size: 85033.5 KB)
+0038.461 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.3 MB, 14167 files batched, 501 (11523) added so far); re-opening (prior size: 85033.5 KB)
+0039.458 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 11600 files added (on-disk size: 85324 KB)
+0039.508 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 11700 files added (on-disk size: 85324 KB)
+0039.556 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 11800 files added (on-disk size: 85324 KB)
+0039.604 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 11900 files added (on-disk size: 85324 KB)
+0039.652 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 12000 files added (on-disk size: 85324 KB)
+0039.665 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.1 MB, 14167 files batched, 501 (12024) added so far); re-opening (prior size: 85324 KB)
+0041.260 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 12100 files added (on-disk size: 89398.3 KB)
+0041.309 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 12200 files added (on-disk size: 89398.3 KB)
+0041.357 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 12300 files added (on-disk size: 89398.3 KB)
+0041.404 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 12400 files added (on-disk size: 89398.3 KB)
+0041.453 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 12500 files added (on-disk size: 89398.3 KB)
+0041.466 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.1 MB, 14167 files batched, 501 (12525) added so far); re-opening (prior size: 89398.3 KB)
+0043.672 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 12600 files added (on-disk size: 91691.4 KB)
+0043.722 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 12700 files added (on-disk size: 91691.4 KB)
+0043.773 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 12800 files added (on-disk size: 91691.4 KB)
+0043.822 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 12900 files added (on-disk size: 91691.4 KB)
+0043.877 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 13000 files added (on-disk size: 91691.4 KB)
+0043.891 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.5 MB, 14167 files batched, 501 (13026) added so far); re-opening (prior size: 91691.4 KB)
+0045.116 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 13100 files added (on-disk size: 94163.4 KB)
+0045.181 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 13200 files added (on-disk size: 94163.4 KB)
+0045.231 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 13300 files added (on-disk size: 94163.4 KB)
+0045.283 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 13400 files added (on-disk size: 94163.4 KB)
+0045.336 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 13500 files added (on-disk size: 94163.4 KB)
+0045.351 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.5 MB, 14167 files batched, 501 (13527) added so far); re-opening (prior size: 94163.4 KB)
+0060.619 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 13600 files added (on-disk size: 96908 KB)
+0060.674 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 13700 files added (on-disk size: 96908 KB)
+0060.730 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 13800 files added (on-disk size: 96908 KB)
+0060.791 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 13900 files added (on-disk size: 96908 KB)
+0060.848 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 14000 files added (on-disk size: 96908 KB)
+0060.864 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 MB, 14167 files batched, 501 (14028) added so far); re-opening (prior size: 96908 KB)
+0069.682 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip.tmp: 14100 files added (on-disk size: 99075.5 KB)
+0074.179 (0) Created plugins zip (0) - 99357.4 KB in 74.1 s (1340.9 KB/s) (sha1: 39762b64d6fa46356fb86298c55d6bc40cfdea56, sha256: c99ab8339c722dba5148103860c9838ab6e90556f8da37d1455ab02eb635d4a0)
+0074.181 (0) Beginning creation of dump of themes (split every: 400 MB)
+0074.550 (0) Total entities for the zip file: 130 directories, 667 files (0 skipped as non-modified), 24 MB
+0074.558 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0074.565 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0074.573 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0074.580 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0074.588 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0074.589 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (20.4 MB, 667 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0077.769 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-themes.zip.tmp: 600 files added (on-disk size: 15623 KB)
+0078.904 (0) Created themes zip (0) - 18056.3 KB in 4.7 s (3824.8 KB/s) (sha1: bfeba5eed14361ec4145c52a0582303d849be76a, sha256: 4f2124fe71b2468a0d8284e27f8f36bc4f4ba21fbdba17fda00d7cb064385044)
+0078.907 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0078.908 (0) Looking for candidates to back up in: /home/travis/public_html/wp-content/uploads
+0078.909 (0) finding files: GeoIP.dat: adding to list (1)
+0078.910 (0) finding files: wpcf7_uploads: adding to list (2)
+0078.911 (0) finding files: 2012: adding to list (3)
+0078.912 (0) finding files: woocommerce_uploads: adding to list (4)
+0078.912 (0) finding files: ithemes-security: adding to list (5)
+0078.913 (0) finding files: 2017: adding to list (6)
+0078.914 (0) finding files: tcb_lp_templates: adding to list (7)
+0078.915 (0) finding files: maxmegamenu: adding to list (8)
+0078.916 (0) finding files: 2014: adding to list (9)
+0078.916 (0) finding files: layerslider: adding to list (10)
+0078.917 (0) finding files: 2015: adding to list (11)
+0078.918 (0) finding files: revslider: adding to list (12)
+0078.918 (0) finding files: 2013: adding to list (13)
+0078.919 (0) finding files: GeoIPv6.dat: adding to list (14)
+0078.920 (0) finding files: wc-logs: adding to list (15)
+0078.921 (0) finding files: 2016: adding to list (16)
+0078.921 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0081.035 (0) Total entities for the zip file: 177 directories, 10112 files (0 skipped as non-modified), 784.8 MB
+0081.043 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0081.049 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0081.056 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0081.063 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0081.071 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0081.072 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (21.9 MB, 10112 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0086.032 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 600 files added (on-disk size: 21720.1 KB)
+0086.041 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 700 files added (on-disk size: 21720.1 KB)
+0086.050 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 800 files added (on-disk size: 21720.1 KB)
+0086.062 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 900 files added (on-disk size: 21720.1 KB)
+0086.067 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (38.5 MB, 10112 files batched, 439 (940) added so far); re-opening (prior size: 21720.1 KB)
+0092.321 (0) A useful amount of data was added after this amount of zip processing: 6.7 s (normalised: 4.4 s, rate: 5881.3 KB/s)
+0092.324 (0) Performance is good - will increase the amount of data we attempt to batch (time=6.7072930336, normalised_time=4.35280382172, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=36134502)
+0092.336 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 1000 files added (on-disk size: 60213.6 KB)
+0092.347 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 1100 files added (on-disk size: 60213.6 KB)
+0092.349 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 34.5 MB added on this batch (95 MB, 10112 files batched, 168 (1108) added so far); re-opening (prior size: 60213.6 KB)
+0099.388 (0) A useful amount of data was added after this amount of zip processing: 7.8 s (normalised: 2.8 s, rate: 12516.5 KB/s)
+0099.390 (0) Performance is good - will increase the amount of data we attempt to batch (time=7.77428293228, normalised_time=2.81929513513, max_time=-1, data points known=0, old_max_bytes=36134502, new_max_bytes=76901140)
+0099.405 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 1200 files added (on-disk size: 156871.1 KB)
+0099.416 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 1300 files added (on-disk size: 156871.1 KB)
+0099.427 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 1400 files added (on-disk size: 156871.1 KB)
+0099.440 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 1500 files added (on-disk size: 156871.1 KB)
+0099.452 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 1600 files added (on-disk size: 156871.1 KB)
+0099.454 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (55.4 MB, 10112 files batched, 501 (1609) added so far); re-opening (prior size: 156871.1 KB)
+0110.729 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 1700 files added (on-disk size: 212475.9 KB)
+0110.741 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 1800 files added (on-disk size: 212475.9 KB)
+0110.754 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 1900 files added (on-disk size: 212475.9 KB)
+0110.766 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 2000 files added (on-disk size: 212475.9 KB)
+0110.780 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 2100 files added (on-disk size: 212475.9 KB)
+0110.782 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16 MB, 10112 files batched, 501 (2110) added so far); re-opening (prior size: 212475.9 KB)
+0117.000 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 2200 files added (on-disk size: 228629.3 KB)
+0117.019 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 2300 files added (on-disk size: 228629.3 KB)
+0117.033 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 2400 files added (on-disk size: 228629.3 KB)
+0117.046 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 2500 files added (on-disk size: 228629.3 KB)
+0117.061 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 2600 files added (on-disk size: 228629.3 KB)
+0117.064 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.5 MB, 10112 files batched, 501 (2611) added so far); re-opening (prior size: 228629.3 KB)
+0121.921 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 2700 files added (on-disk size: 241293.7 KB)
+0121.945 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 2800 files added (on-disk size: 241293.7 KB)
+0121.963 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 2900 files added (on-disk size: 241293.7 KB)
+0121.981 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 3000 files added (on-disk size: 241293.7 KB)
+0121.999 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 3100 files added (on-disk size: 241293.7 KB)
+0122.002 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (19.8 MB, 10112 files batched, 501 (3112) added so far); re-opening (prior size: 241293.7 KB)
+0131.195 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 3200 files added (on-disk size: 261466.8 KB)
+0131.231 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 3300 files added (on-disk size: 261466.8 KB)
+0131.248 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 3400 files added (on-disk size: 261466.8 KB)
+0131.265 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 3500 files added (on-disk size: 261466.8 KB)
+0131.283 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 3600 files added (on-disk size: 261466.8 KB)
+0131.287 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (45 MB, 10112 files batched, 501 (3613) added so far); re-opening (prior size: 261466.8 KB)
+0146.123 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 3700 files added (on-disk size: 305770.8 KB)
+0146.141 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 3800 files added (on-disk size: 305770.8 KB)
+0146.159 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 3900 files added (on-disk size: 305770.8 KB)
+0146.178 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 4000 files added (on-disk size: 305770.8 KB)
+0146.197 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 4100 files added (on-disk size: 305770.8 KB)
+0146.201 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (67.4 MB, 10112 files batched, 501 (4114) added so far); re-opening (prior size: 305770.8 KB)
+0158.976 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip.tmp: 4200 files added (on-disk size: 373237.2 KB)
+0158.982 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): possibly approaching split limit (33 MB, 106 (4220) files added so far); last ratio: 0.9777; re-opening (prior size: 373237.2 KB)
+0176.289 (0) Zip size is at/near split limit (397.1 MB / 400 MB) - bumping index (from: 0)
+0183.522 (0) Created uploads zip (0) - 406641.9 KB in 97 s (4191.5 KB/s) (checksums: sha1: a826ed22e9fb43c49f7594d2b09f57a86680c839, sha256: accc972b62a6d016cd6ad0fb962d90e576ea465d941e60ba8c9f39e8b83c40ce)
+0183.524 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (4221) files added so far); re-opening (prior size: 0 KB)
+0183.559 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 4300 files added (on-disk size: 7.7 KB)
+0183.565 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 4400 files added (on-disk size: 7.7 KB)
+0183.571 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 4500 files added (on-disk size: 7.7 KB)
+0183.577 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 4600 files added (on-disk size: 7.7 KB)
+0183.579 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 73.3 MB added on this batch (83.2 MB, 10112 files batched, 389 (4610) added so far); re-opening (prior size: 7.7 KB)
+0192.939 (0) A useful amount of data was added after this amount of zip processing: 10.3 s (normalised: 9.1 s, rate: 8250.5 KB/s)
+0192.963 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 4700 files added (on-disk size: 84412.2 KB)
+0192.971 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 4800 files added (on-disk size: 84412.2 KB)
+0192.979 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 4900 files added (on-disk size: 84412.2 KB)
+0192.988 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 5000 files added (on-disk size: 84412.2 KB)
+0192.996 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 5100 files added (on-disk size: 84412.2 KB)
+0192.998 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (65.4 MB, 10112 files batched, 501 (5111) added so far); re-opening (prior size: 84412.2 KB)
+0219.525 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 5200 files added (on-disk size: 150153.3 KB)
+0219.537 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 5300 files added (on-disk size: 150153.3 KB)
+0219.548 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 5400 files added (on-disk size: 150153.3 KB)
+0219.559 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 5500 files added (on-disk size: 150153.3 KB)
+0219.571 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 5600 files added (on-disk size: 150153.3 KB)
+0219.573 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.3 MB, 10112 files batched, 501 (5612) added so far); re-opening (prior size: 150153.3 KB)
+0229.692 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 5700 files added (on-disk size: 160364.2 KB)
+0229.704 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 5800 files added (on-disk size: 160364.2 KB)
+0229.715 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 5900 files added (on-disk size: 160364.2 KB)
+0229.728 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 6000 files added (on-disk size: 160364.2 KB)
+0229.741 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 6100 files added (on-disk size: 160364.2 KB)
+0229.743 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (25.3 MB, 10112 files batched, 501 (6113) added so far); re-opening (prior size: 160364.2 KB)
+0234.184 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 6200 files added (on-disk size: 185891.1 KB)
+0234.198 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 6300 files added (on-disk size: 185891.1 KB)
+0234.212 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 6400 files added (on-disk size: 185891.1 KB)
+0234.226 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 6500 files added (on-disk size: 185891.1 KB)
+0234.241 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 6600 files added (on-disk size: 185891.1 KB)
+0234.244 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (26.6 MB, 10112 files batched, 501 (6614) added so far); re-opening (prior size: 185891.1 KB)
+0238.845 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 6700 files added (on-disk size: 212734 KB)
+0238.859 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 6800 files added (on-disk size: 212734 KB)
+0238.874 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 6900 files added (on-disk size: 212734 KB)
+0238.889 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 7000 files added (on-disk size: 212734 KB)
+0238.905 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 7100 files added (on-disk size: 212734 KB)
+0238.909 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (46.3 MB, 10112 files batched, 501 (7115) added so far); re-opening (prior size: 212734 KB)
+0256.637 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 7200 files added (on-disk size: 259498.1 KB)
+0256.653 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 7300 files added (on-disk size: 259498.1 KB)
+0256.669 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 7400 files added (on-disk size: 259498.1 KB)
+0256.685 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 7500 files added (on-disk size: 259498.1 KB)
+0256.702 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 7600 files added (on-disk size: 259498.1 KB)
+0256.706 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.3 MB, 10112 files batched, 501 (7616) added so far); re-opening (prior size: 259498.1 KB)
+0260.012 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 7700 files added (on-disk size: 274053.4 KB)
+0260.030 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 7800 files added (on-disk size: 274053.4 KB)
+0260.048 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 7900 files added (on-disk size: 274053.4 KB)
+0260.067 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 8000 files added (on-disk size: 274053.4 KB)
+0260.085 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 8100 files added (on-disk size: 274053.4 KB)
+0260.089 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (29.4 MB, 10112 files batched, 501 (8117) added so far); re-opening (prior size: 274053.4 KB)
+0268.910 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 8200 files added (on-disk size: 302663.6 KB)
+0268.930 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 8300 files added (on-disk size: 302663.6 KB)
+0268.948 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 8400 files added (on-disk size: 302663.6 KB)
+0268.967 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 8500 files added (on-disk size: 302663.6 KB)
+0268.987 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 8600 files added (on-disk size: 302663.6 KB)
+0268.993 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (27.9 MB, 10112 files batched, 501 (8618) added so far); re-opening (prior size: 302663.6 KB)
+0278.042 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 8700 files added (on-disk size: 329715.7 KB)
+0278.064 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 8800 files added (on-disk size: 329715.7 KB)
+0278.086 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 8900 files added (on-disk size: 329715.7 KB)
+0278.107 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 9000 files added (on-disk size: 329715.7 KB)
+0278.127 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 9100 files added (on-disk size: 329715.7 KB)
+0278.183 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.6 MB, 10112 files batched, 501 (9119) added so far); re-opening (prior size: 329715.7 KB)
+0292.516 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 9200 files added (on-disk size: 346724.4 KB)
+0292.539 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 9300 files added (on-disk size: 346724.4 KB)
+0292.561 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 9400 files added (on-disk size: 346724.4 KB)
+0292.584 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 9500 files added (on-disk size: 346724.4 KB)
+0292.608 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 9600 files added (on-disk size: 346724.4 KB)
+0292.614 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.6 MB, 10112 files batched, 501 (9620) added so far); re-opening (prior size: 346724.4 KB)
+0298.342 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 9700 files added (on-disk size: 355862 KB)
+0298.364 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 9800 files added (on-disk size: 355862 KB)
+0298.388 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 9900 files added (on-disk size: 355862 KB)
+0298.411 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 10000 files added (on-disk size: 355862 KB)
+0298.434 (0) Zip: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip.tmp: 10100 files added (on-disk size: 355862 KB)
+0313.945 (0) Created uploads zip (1) - 378584.9 KB in 130.4 s (2902.8 KB/s) (sha1: 8086c6496a15346f505d995d77a94614007025ed, sha256: b93da947c51309fb30c416953d9d7846bd210be6619648e438f508ebc27d3989)
+0313.948 (0) Beginning backup of other directories found in the content directory (index: 0)
+0313.949 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0313.949 (0) Looking for candidates to back up in: /home/travis/public_html/wp-content
+0313.950 (0) finding files: themes: skipping: this is the themes directory
+0313.951 (0) finding files: upgrade: skipping: excluded by options
+0313.952 (0) finding files: plugins: skipping: this is the plugins directory
+0313.953 (0) finding files: updraft: skipping: this is the updraft directory
+0313.954 (0) finding files: index.php: adding to list (1)
+0313.954 (0) finding files: uploads: skipping: this is the uploads directory
+0313.957 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0313.991 (0) Created others zip (0) - 0.1 KB in 0 s (4 KB/s) (sha1: 349f6c1a74c020769a885bafd8581ad7e886103e, sha256: 31b3848889849c239548d2a1a1e89df771b0c0bc8bd94617863803759047a554)
+0313.998 (0) Saving backup status to database (elements: 9)
+0314.000 (0) Beginning creation of database dump (WordPress DB)
+0314.239 (0) Table wp_options: Total expected rows (approximate): 796
+0314.360 (0) Table wp_options: Total rows added: 809 in 0.12 seconds
+0314.362 (0) Table wp_options: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_options.table.gz - 340 KB)
+0314.384 (0) Table wp_users: Total expected rows (approximate): 15
+0314.402 (0) Table wp_users: Total rows added: 15 in 0.00 seconds
+0314.404 (0) Table wp_users: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_users.table.gz - 1.8 KB)
+0314.415 (0) Table wp_usermeta: Total expected rows (approximate): 799
+0314.433 (0) Table wp_usermeta: Total rows added: 799 in 0.02 seconds
+0314.446 (0) Table wp_usermeta: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_usermeta.table.gz - 10.6 KB)
+0314.490 (0) Table wp_commentmeta: Total expected rows (approximate): 232
+0314.498 (0) Table wp_commentmeta: Total rows added: 232 in 0.01 seconds
+0314.499 (0) Table wp_commentmeta: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_commentmeta.table.gz - 3.8 KB)
+0314.621 (0) Table wp_comments: Total expected rows (approximate): 50
+0314.633 (0) Table wp_comments: Total rows added: 50 in 0.01 seconds
+0314.634 (0) Table wp_comments: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_comments.table.gz - 4.1 KB)
+0314.818 (0) Table wp_links: Total expected rows (approximate): 0
+0314.821 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0314.822 (0) Table wp_links: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_links.table.gz - 0.4 KB)
+0314.842 (0) Table wp_postmeta: Total expected rows (approximate): 49936
+0317.118 (0) Table wp_postmeta: Total rows added: 52569 in 2.27 seconds
+0317.120 (0) Table wp_postmeta: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_postmeta.table.gz - 528.7 KB)
+0317.306 (0) Table wp_posts: Total expected rows (approximate): 2577
+0318.217 (0) Table wp_posts: Total rows added: 3037 in 0.91 seconds
+0318.220 (0) Table wp_posts: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_posts.table.gz - 888.9 KB)
+0318.234 (0) Table wp_term_relationships: Total expected rows (approximate): 610
+0318.244 (0) Table wp_term_relationships: Total rows added: 610 in 0.01 seconds
+0318.245 (0) Table wp_term_relationships: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_term_relationships.table.gz - 2.1 KB)
+0318.258 (0) Table wp_term_taxonomy: Total expected rows (approximate): 347
+0318.268 (0) Table wp_term_taxonomy: Total rows added: 347 in 0.01 seconds
+0318.270 (0) Table wp_term_taxonomy: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_term_taxonomy.table.gz - 2.5 KB)
+0318.280 (0) Table wp_termmeta: Total expected rows (approximate): 22
+0318.283 (0) Table wp_termmeta: Total rows added: 22 in 0.00 seconds
+0318.284 (0) Table wp_termmeta: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_termmeta.table.gz - 0.5 KB)
+0318.291 (0) Table wp_terms: Total expected rows (approximate): 347
+0318.300 (0) Table wp_terms: Total rows added: 347 in 0.01 seconds
+0318.301 (0) Table wp_terms: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_terms.table.gz - 4.7 KB)
+0318.319 (0) Table wp_eg_grids: Total expected rows (approximate): 2
+0318.322 (0) Table wp_eg_grids: Total rows added: 2 in 0.00 seconds
+0318.323 (0) Table wp_eg_grids: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_eg_grids.table.gz - 2.6 KB)
+0318.334 (0) Table wp_eg_item_elements: Total expected rows (approximate): 0
+0318.336 (0) Table wp_eg_item_elements: Total rows added: 0 in 0.00 seconds
+0318.337 (0) Table wp_eg_item_elements: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_eg_item_elements.table.gz - 0.3 KB)
+0318.353 (0) Table wp_eg_item_skins: Total expected rows (approximate): 37
+0318.370 (0) Table wp_eg_item_skins: Total rows added: 50 in 0.02 seconds
+0318.371 (0) Table wp_eg_item_skins: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_eg_item_skins.table.gz - 22.4 KB)
+0318.383 (0) Table wp_eg_navigation_skins: Total expected rows (approximate): 8
+0318.385 (0) Table wp_eg_navigation_skins: Total rows added: 8 in 0.00 seconds
+0318.386 (0) Table wp_eg_navigation_skins: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_eg_navigation_skins.table.gz - 3.4 KB)
+0318.424 (0) Table wp_itsec_lockouts: Total expected rows (approximate): 0
+0318.427 (0) Table wp_itsec_lockouts: Total rows added: 1 in 0.00 seconds
+0318.428 (0) Table wp_itsec_lockouts: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_itsec_lockouts.table.gz - 0.5 KB)
+0318.445 (0) Table wp_itsec_log: Total expected rows (approximate): 9
+0318.465 (0) Table wp_itsec_log: Total rows added: 13 in 0.00 seconds
+0318.466 (0) Table wp_itsec_log: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_itsec_log.table.gz - 0.9 KB)
+0318.484 (0) Table wp_itsec_temp: Total expected rows (approximate): 6
+0318.487 (0) Table wp_itsec_temp: Total rows added: 6 in 0.00 seconds
+0318.488 (0) Table wp_itsec_temp: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_itsec_temp.table.gz - 0.5 KB)
+0318.512 (0) Table wp_layerslider: Total expected rows (approximate): 6
+0318.672 (0) Table wp_layerslider: Total rows added: 6 in 0.16 seconds
+0318.674 (0) Table wp_layerslider: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_layerslider.table.gz - 74.1 KB)
+0318.678 (0) Table wp_layerslider_revisions: Total expected rows (approximate): 79
+0319.609 (0) Table wp_layerslider_revisions: Total rows added: 85 in 0.93 seconds
+0319.612 (0) Table wp_layerslider_revisions: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_layerslider_revisions.table.gz - 1455.3 KB)
+0319.650 (0) Table wp_responsive_menu: Total expected rows (approximate): 181
+0319.657 (0) Table wp_responsive_menu: Total rows added: 181 in 0.01 seconds
+0319.658 (0) Table wp_responsive_menu: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_responsive_menu.table.gz - 2 KB)
+0319.676 (0) Table wp_revslider_css: Total expected rows (approximate): 115
+0319.684 (0) Table wp_revslider_css: Total rows added: 115 in 0.01 seconds
+0319.685 (0) Table wp_revslider_css: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_revslider_css.table.gz - 5.2 KB)
+0319.695 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 1
+0319.697 (0) Table wp_revslider_layer_animations: Total rows added: 1 in 0.00 seconds
+0319.698 (0) Table wp_revslider_layer_animations: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_revslider_layer_animations.table.gz - 0.4 KB)
+0319.712 (0) Table wp_revslider_navigations: Total expected rows (approximate): 0
+0319.714 (0) Table wp_revslider_navigations: Total rows added: 0 in 0.00 seconds
+0319.715 (0) Table wp_revslider_navigations: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_revslider_navigations.table.gz - 0.3 KB)
+0319.719 (0) Table wp_revslider_sliders: Total expected rows (approximate): 10
+0319.723 (0) Table wp_revslider_sliders: Total rows added: 10 in 0.00 seconds
+0319.724 (0) Table wp_revslider_sliders: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_revslider_sliders.table.gz - 6.1 KB)
+0319.743 (0) Table wp_revslider_slides: Total expected rows (approximate): 31
+0319.818 (0) Table wp_revslider_slides: Total rows added: 42 in 0.07 seconds
+0319.821 (0) Table wp_revslider_slides: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_revslider_slides.table.gz - 57 KB)
+0319.852 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 6
+0319.855 (0) Table wp_revslider_static_slides: Total rows added: 6 in 0.00 seconds
+0319.856 (0) Table wp_revslider_static_slides: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_revslider_static_slides.table.gz - 3.2 KB)
+0319.877 (0) Table wp_tcb_api_error_log: Total expected rows (approximate): 0
+0319.879 (0) Table wp_tcb_api_error_log: Total rows added: 0 in 0.00 seconds
+0319.880 (0) Table wp_tcb_api_error_log: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tcb_api_error_log.table.gz - 0.3 KB)
+0319.896 (0) Table wp_tve_leads_contact_download: Total expected rows (approximate): 0
+0319.898 (0) Table wp_tve_leads_contact_download: Total rows added: 0 in 0.00 seconds
+0319.899 (0) Table wp_tve_leads_contact_download: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_contact_download.table.gz - 0.3 KB)
+0319.921 (0) Table wp_tve_leads_contacts: Total expected rows (approximate): 0
+0320.213 (0) Table wp_tve_leads_contacts: Total rows added: 0 in 0.03 seconds
+0320.215 (0) Table wp_tve_leads_contacts: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_contacts.table.gz - 0.3 KB)
+0320.878 (0) Table wp_tve_leads_event_log: Total expected rows (approximate): 0
+0321.412 (0) Table wp_tve_leads_event_log: Total rows added: 0 in 0.53 seconds
+0321.413 (0) Table wp_tve_leads_event_log: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_event_log.table.gz - 0.4 KB)
+0322.231 (0) Table wp_tve_leads_form_variations: Total expected rows (approximate): 5
+0322.235 (0) Table wp_tve_leads_form_variations: Total rows added: 5 in 0.00 seconds
+0322.236 (0) Table wp_tve_leads_form_variations: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_form_variations.table.gz - 2.2 KB)
+0322.911 (0) Table wp_tve_leads_group_options: Total expected rows (approximate): 0
+0322.914 (0) Table wp_tve_leads_group_options: Total rows added: 0 in 0.00 seconds
+0322.929 (0) Table wp_tve_leads_group_options: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_group_options.table.gz - 0.3 KB)
+0322.984 (0) Table wp_tve_leads_saved_group_options: Total expected rows (approximate): 0
+0323.012 (0) Table wp_tve_leads_saved_group_options: Total rows added: 0 in 0.03 seconds
+0323.013 (0) Table wp_tve_leads_saved_group_options: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_saved_group_options.table.gz - 0.3 KB)
+0323.067 (0) Table wp_tve_leads_split_test: Total expected rows (approximate): 0
+0323.070 (0) Table wp_tve_leads_split_test: Total rows added: 0 in 0.00 seconds
+0323.071 (0) Table wp_tve_leads_split_test: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_split_test.table.gz - 0.4 KB)
+0323.112 (0) Table wp_tve_leads_split_test_items: Total expected rows (approximate): 0
+0323.115 (0) Table wp_tve_leads_split_test_items: Total rows added: 0 in 0.00 seconds
+0323.116 (0) Table wp_tve_leads_split_test_items: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_split_test_items.table.gz - 0.4 KB)
+0323.162 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0323.165 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0323.166 (0) Table wp_woocommerce_api_keys: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0323.222 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0323.225 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 1 in 0.00 seconds
+0323.226 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0323.255 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0323.269 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.01 seconds
+0323.270 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0323.286 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0323.289 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.00 seconds
+0323.290 (0) Table wp_woocommerce_log: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0323.306 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0323.319 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.01 seconds
+0323.320 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0323.349 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0323.352 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0323.353 (0) Table wp_woocommerce_order_items: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_order_items.table.gz - 0.4 KB)
+0323.369 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0323.396 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.03 seconds
+0323.397 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0323.421 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0323.441 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.02 seconds
+0323.442 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0323.479 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 2
+0323.483 (0) Table wp_woocommerce_sessions: Total rows added: 2 in 0.00 seconds
+0323.484 (0) Table wp_woocommerce_sessions: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_sessions.table.gz - 0.8 KB)
+0323.500 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0323.503 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.00 seconds
+0323.504 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0323.508 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0323.510 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.00 seconds
+0323.511 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0323.515 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0323.517 (0) Table wp_woocommerce_shipping_zones: Total rows added: 0 in 0.00 seconds
+0323.518 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0323.522 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0323.524 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0323.525 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0323.532 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0323.535 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0323.536 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0323.567 (0) Table wp_wpmm_subscribers: Total expected rows (approximate): 0
+0323.570 (0) Table wp_wpmm_subscribers: Total rows added: 0 in 0.00 seconds
+0323.571 (0) Table wp_wpmm_subscribers: finishing file (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_wpmm_subscribers.table.gz - 0.3 KB)
+0323.574 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_options.table.gz (1/52): adding to final database dump
+0323.664 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_users.table.gz (2/52): adding to final database dump
+0323.666 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_usermeta.table.gz (3/52): adding to final database dump
+0323.674 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_commentmeta.table.gz (4/52): adding to final database dump
+0323.677 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_comments.table.gz (5/52): adding to final database dump
+0323.679 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_links.table.gz (6/52): adding to final database dump
+0323.680 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_postmeta.table.gz (7/52): adding to final database dump
+0324.134 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_posts.table.gz (8/52): adding to final database dump
+0324.478 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_term_relationships.table.gz (9/52): adding to final database dump
+0324.483 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_term_taxonomy.table.gz (10/52): adding to final database dump
+0324.487 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_termmeta.table.gz (11/52): adding to final database dump
+0324.489 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_terms.table.gz (12/52): adding to final database dump
+0324.493 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_eg_grids.table.gz (13/52): adding to final database dump
+0324.495 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_eg_item_elements.table.gz (14/52): adding to final database dump
+0324.496 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_eg_item_skins.table.gz (15/52): adding to final database dump
+0324.510 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_eg_navigation_skins.table.gz (16/52): adding to final database dump
+0324.512 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_itsec_lockouts.table.gz (17/52): adding to final database dump
+0324.513 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_itsec_log.table.gz (18/52): adding to final database dump
+0324.514 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_itsec_temp.table.gz (19/52): adding to final database dump
+0324.516 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_layerslider.table.gz (20/52): adding to final database dump
+0324.544 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_layerslider_revisions.table.gz (21/52): adding to final database dump
+0325.059 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_responsive_menu.table.gz (22/52): adding to final database dump
+0325.063 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_revslider_css.table.gz (23/52): adding to final database dump
+0325.067 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_revslider_layer_animations.table.gz (24/52): adding to final database dump
+0325.068 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_revslider_navigations.table.gz (25/52): adding to final database dump
+0325.069 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_revslider_sliders.table.gz (26/52): adding to final database dump
+0325.072 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_revslider_slides.table.gz (27/52): adding to final database dump
+0325.097 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_revslider_static_slides.table.gz (28/52): adding to final database dump
+0325.100 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tcb_api_error_log.table.gz (29/52): adding to final database dump
+0325.101 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_contact_download.table.gz (30/52): adding to final database dump
+0325.102 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_contacts.table.gz (31/52): adding to final database dump
+0325.103 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_event_log.table.gz (32/52): adding to final database dump
+0325.104 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_form_variations.table.gz (33/52): adding to final database dump
+0325.106 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_group_options.table.gz (34/52): adding to final database dump
+0325.107 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_saved_group_options.table.gz (35/52): adding to final database dump
+0325.109 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_split_test.table.gz (36/52): adding to final database dump
+0325.110 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_tve_leads_split_test_items.table.gz (37/52): adding to final database dump
+0325.111 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_api_keys.table.gz (38/52): adding to final database dump
+0325.112 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_attribute_taxonomies.table.gz (39/52): adding to final database dump
+0325.113 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (40/52): adding to final database dump
+0325.114 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_log.table.gz (41/52): adding to final database dump
+0325.117 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_order_itemmeta.table.gz (42/52): adding to final database dump
+0325.119 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_order_items.table.gz (43/52): adding to final database dump
+0325.121 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/52): adding to final database dump
+0325.122 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_payment_tokens.table.gz (45/52): adding to final database dump
+0325.124 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_sessions.table.gz (46/52): adding to final database dump
+0325.125 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_shipping_zone_locations.table.gz (47/52): adding to final database dump
+0325.126 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_shipping_zone_methods.table.gz (48/52): adding to final database dump
+0325.127 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_shipping_zones.table.gz (49/52): adding to final database dump
+0325.128 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_tax_rate_locations.table.gz (50/52): adding to final database dump
+0325.129 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_woocommerce_tax_rates.table.gz (51/52): adding to final database dump
+0325.130 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db-table-wp_wpmm_subscribers.table.gz (52/52): adding to final database dump
+0325.131 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db.gz: finished writing out complete database file (3408 KB)
+0325.201 (0) Total database tables backed up: 52 (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db.gz, size: 3502927, sha256)
+0325.208 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0325.208 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0325.209 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0325.210 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+0325.211 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-others.zip: others: This file has not yet been successfully uploaded: will queue
+0325.211 (0) backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db.gz: db: This file has not yet been successfully uploaded: will queue
+0325.212 (0) Saving backup history. Total backup size: 884.8 MB
+0325.215 (0) Requesting upload of the files that have not yet been successfully uploaded (6)
+0325.218 (0) Cloud backup selection (1/1): dropbox (last)
+0325.219 (0) Beginning dispatch of backup to remote (dropbox)
+0325.220 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0325.300 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0325.997 (0) Dropbox quota usage: used=9811.4 MB, total=1050624 MB, available=1040812.6 MB
+0325.999 (0) Dropbox: Attempt to upload: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip to: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip
+0327.509 (0) Dropbox chunked upload: 1 % uploaded (AAAAAAAAAbd2BGQIAHFNfQ, 1048576, 5632 KB)
+0330.859 (0) Dropbox chunked upload: 6.7 % uploaded (AAAAAAAAAbd2BGQIAHFNfQ, 6815744, 10240 KB)
+0337.078 (0) Dropbox chunked upload: 17 % uploaded (AAAAAAAAAbd2BGQIAHFNfQ, 17301504, 10240 KB)
+0342.312 (0) Dropbox chunked upload: 27.3 % uploaded (AAAAAAAAAbd2BGQIAHFNfQ, 27787264, 10240 KB)
+0350.599 (0) Dropbox chunked upload: 37.6 % uploaded (AAAAAAAAAbd2BGQIAHFNfQ, 38273024, 10240 KB)
+0356.720 (0) Dropbox chunked upload: 47.9 % uploaded (AAAAAAAAAbd2BGQIAHFNfQ, 48758784, 10240 KB)
+0364.227 (0) Dropbox chunked upload: 58.2 % uploaded (AAAAAAAAAbd2BGQIAHFNfQ, 59244544, 10240 KB)
+0370.994 (0) Dropbox chunked upload: 68.5 % uploaded (AAAAAAAAAbd2BGQIAHFNfQ, 69730304, 10240 KB)
+0376.794 (0) Dropbox chunked upload: 78.8 % uploaded (AAAAAAAAAbd2BGQIAHFNfQ, 80216064, 10240 KB)
+0381.389 (0) Dropbox chunked upload: 89.1 % uploaded (AAAAAAAAAbd2BGQIAHFNfQ, 90701824, 10240 KB)
+0387.662 (0) Dropbox chunked upload: 99.5 % uploaded (AAAAAAAAAbd2BGQIAHFNfQ, 101187584, 10240 KB)
+0388.994 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAbd2BGQIAHFNfQ, 101741964, 10240 KB)
+0390.349 (0) Recording as successfully uploaded: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip (49af24ebec2edbb7f0c4bf688627dcd8)
+0390.385 (0) Deleting local file: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip: OK
+0390.386 (0) Dropbox: File upload success (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-plugins.zip): 99357 KB in 64s (1543 KB/s)
+0390.873 (0) Dropbox quota usage: used=9908.4 MB, total=1050624 MB, available=1040715.6 MB
+0390.884 (0) Dropbox: Attempt to upload: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-themes.zip to: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-themes.zip
+0395.845 (0) Dropbox chunked upload: 56.7 % uploaded (AAAAAAAAAbgclWF5Uh4tXA, 10485760, 10240 KB)
+0400.867 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAbgclWF5Uh4tXA, 18489650, 10240 KB)
+0402.366 (0) Recording as successfully uploaded: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-themes.zip (88a2962efdcb5f9e0ce4e6a8b6830508)
+0402.376 (0) Deleting local file: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-themes.zip: OK
+0402.377 (0) Dropbox: File upload success (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-themes.zip): 18056 KB in 11s (1571 KB/s)
+0402.851 (0) Dropbox quota usage: used=9926.1 MB, total=1050624 MB, available=1040697.9 MB
+0402.853 (0) Dropbox: Attempt to upload: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip to: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip
+0408.105 (0) Dropbox chunked upload: 2.5 % uploaded (AAAAAAAAAbl9qeujS55eQA, 10485760, 10240 KB)
+0413.976 (0) Dropbox chunked upload: 5 % uploaded (AAAAAAAAAbl9qeujS55eQA, 20971520, 10240 KB)
+0418.921 (0) Dropbox chunked upload: 7.6 % uploaded (AAAAAAAAAbl9qeujS55eQA, 31457280, 10240 KB)
+0424.536 (0) Dropbox chunked upload: 10.1 % uploaded (AAAAAAAAAbl9qeujS55eQA, 41943040, 10240 KB)
+0430.854 (0) Dropbox chunked upload: 12.6 % uploaded (AAAAAAAAAbl9qeujS55eQA, 52428800, 10240 KB)
+0436.579 (0) Dropbox chunked upload: 15.1 % uploaded (AAAAAAAAAbl9qeujS55eQA, 62914560, 10240 KB)
+0441.529 (0) Dropbox chunked upload: 17.6 % uploaded (AAAAAAAAAbl9qeujS55eQA, 73400320, 10240 KB)
+0449.704 (0) Dropbox chunked upload: 20.1 % uploaded (AAAAAAAAAbl9qeujS55eQA, 83886080, 10240 KB)
+0454.854 (0) Dropbox chunked upload: 22.7 % uploaded (AAAAAAAAAbl9qeujS55eQA, 94371840, 10240 KB)
+0460.475 (0) Dropbox chunked upload: 25.2 % uploaded (AAAAAAAAAbl9qeujS55eQA, 104857600, 10240 KB)
+0465.480 (0) Dropbox chunked upload: 27.7 % uploaded (AAAAAAAAAbl9qeujS55eQA, 115343360, 10240 KB)
+0472.019 (0) Dropbox chunked upload: 30.2 % uploaded (AAAAAAAAAbl9qeujS55eQA, 125829120, 10240 KB)
+0477.037 (0) Dropbox chunked upload: 32.7 % uploaded (AAAAAAAAAbl9qeujS55eQA, 136314880, 10240 KB)
+0482.438 (0) Dropbox chunked upload: 35.3 % uploaded (AAAAAAAAAbl9qeujS55eQA, 146800640, 10240 KB)
+0487.287 (0) Dropbox chunked upload: 37.8 % uploaded (AAAAAAAAAbl9qeujS55eQA, 157286400, 10240 KB)
+0493.454 (0) Dropbox chunked upload: 40.3 % uploaded (AAAAAAAAAbl9qeujS55eQA, 167772160, 10240 KB)
+0498.663 (0) Dropbox chunked upload: 42.8 % uploaded (AAAAAAAAAbl9qeujS55eQA, 178257920, 10240 KB)
+0504.761 (0) Dropbox chunked upload: 45.3 % uploaded (AAAAAAAAAbl9qeujS55eQA, 188743680, 10240 KB)
+0510.551 (0) Dropbox chunked upload: 47.8 % uploaded (AAAAAAAAAbl9qeujS55eQA, 199229440, 10240 KB)
+0516.112 (0) Dropbox chunked upload: 50.4 % uploaded (AAAAAAAAAbl9qeujS55eQA, 209715200, 10240 KB)
+0521.046 (0) Dropbox chunked upload: 52.9 % uploaded (AAAAAAAAAbl9qeujS55eQA, 220200960, 10240 KB)
+0529.413 (0) Dropbox chunked upload: 55.4 % uploaded (AAAAAAAAAbl9qeujS55eQA, 230686720, 10240 KB)
+0535.281 (0) Dropbox chunked upload: 57.9 % uploaded (AAAAAAAAAbl9qeujS55eQA, 241172480, 10240 KB)
+0541.894 (0) Dropbox chunked upload: 60.4 % uploaded (AAAAAAAAAbl9qeujS55eQA, 251658240, 10240 KB)
+0547.291 (0) Dropbox chunked upload: 63 % uploaded (AAAAAAAAAbl9qeujS55eQA, 262144000, 10240 KB)
+0555.500 (0) The scheduled resumption is within 45 seconds - will reschedule
+0555.502 (0) Rescheduling resumption 1: moving to 645 seconds from now (1494564697)
+0555.505 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 600 + 45 = 645
+0555.506 (0) Dropbox chunked upload: 65.5 % uploaded (AAAAAAAAAbl9qeujS55eQA, 272629760, 10240 KB)
+0560.517 (0) Dropbox chunked upload: 68 % uploaded (AAAAAAAAAbl9qeujS55eQA, 283115520, 10240 KB)
+0567.087 (0) Dropbox chunked upload: 70.5 % uploaded (AAAAAAAAAbl9qeujS55eQA, 293601280, 10240 KB)
+0573.111 (0) Dropbox chunked upload: 73 % uploaded (AAAAAAAAAbl9qeujS55eQA, 304087040, 10240 KB)
+0579.002 (0) Dropbox chunked upload: 75.5 % uploaded (AAAAAAAAAbl9qeujS55eQA, 314572800, 10240 KB)
+0584.337 (0) Dropbox chunked upload: 78.1 % uploaded (AAAAAAAAAbl9qeujS55eQA, 325058560, 10240 KB)
+0591.471 (0) Dropbox chunked upload: 80.6 % uploaded (AAAAAAAAAbl9qeujS55eQA, 335544320, 10240 KB)
+0596.481 (0) Dropbox chunked upload: 83.1 % uploaded (AAAAAAAAAbl9qeujS55eQA, 346030080, 10240 KB)
+0602.320 (0) Dropbox chunked upload: 85.6 % uploaded (AAAAAAAAAbl9qeujS55eQA, 356515840, 10240 KB)
+0607.832 (0) Dropbox chunked upload: 88.1 % uploaded (AAAAAAAAAbl9qeujS55eQA, 367001600, 10240 KB)
+0616.123 (0) The time we have been running (616.1) is approaching the resumption interval (645) - increasing resumption interval to 647
+0616.126 (0) Dropbox chunked upload: 90.7 % uploaded (AAAAAAAAAbl9qeujS55eQA, 377487360, 10240 KB)
+0622.220 (0) The time we have been running (622.2) is approaching the resumption interval (647) - increasing resumption interval to 653
+0622.222 (0) Dropbox chunked upload: 93.2 % uploaded (AAAAAAAAAbl9qeujS55eQA, 387973120, 10240 KB)
+0630.020 (0) The time we have been running (630) is approaching the resumption interval (653) - increasing resumption interval to 661
+0630.022 (0) Dropbox chunked upload: 95.7 % uploaded (AAAAAAAAAbl9qeujS55eQA, 398458880, 10240 KB)
+0635.533 (0) The time we have been running (635.5) is approaching the resumption interval (661) - increasing resumption interval to 666
+0635.535 (0) Dropbox chunked upload: 98.2 % uploaded (AAAAAAAAAbl9qeujS55eQA, 408944640, 10240 KB)
+0641.927 (0) The time we have been running (641.9) is approaching the resumption interval (666) - increasing resumption interval to 672
+0641.929 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAbl9qeujS55eQA, 416401354, 10240 KB)
+0643.307 (0) Recording as successfully uploaded: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip (103723ecfa2dd96b9be6346c4dbaba6b)
+0643.420 (0) Deleting local file: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip: OK
+0643.435 (0) Dropbox: File upload success (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads.zip): 406641 KB in 240s (1690 KB/s)
+0643.941 (0) Dropbox quota usage: used=10323.2 MB, total=1050624 MB, available=1040300.8 MB
+0643.943 (0) Dropbox: Attempt to upload: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip to: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip
+0648.660 (0) The time we have been running (648.7) is approaching the resumption interval (672) - increasing resumption interval to 679
+0648.682 (0) Dropbox chunked upload: 2.7 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 10485760, 10240 KB)
+0654.620 (0) The time we have been running (654.6) is approaching the resumption interval (679) - increasing resumption interval to 685
+0654.622 (0) Dropbox chunked upload: 5.4 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 20971520, 10240 KB)
+0659.505 (0) The time we have been running (659.5) is approaching the resumption interval (685) - increasing resumption interval to 690
+0659.509 (0) Dropbox chunked upload: 8.1 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 31457280, 10240 KB)
+0667.247 (0) The time we have been running (667.2) is approaching the resumption interval (690) - increasing resumption interval to 698
+0667.251 (0) Dropbox chunked upload: 10.8 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 41943040, 10240 KB)
+0672.766 (0) The time we have been running (672.8) is approaching the resumption interval (698) - increasing resumption interval to 703
+0672.769 (0) Dropbox chunked upload: 13.5 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 52428800, 10240 KB)
+0678.374 (0) The time we have been running (678.4) is approaching the resumption interval (703) - increasing resumption interval to 709
+0678.377 (0) Dropbox chunked upload: 16.2 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 62914560, 10240 KB)
+0683.400 (0) The time we have been running (683.4) is approaching the resumption interval (709) - increasing resumption interval to 714
+0683.402 (0) Dropbox chunked upload: 18.9 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 73400320, 10240 KB)
+0689.203 (0) The time we have been running (689.2) is approaching the resumption interval (714) - increasing resumption interval to 720
+0689.205 (0) Dropbox chunked upload: 21.6 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 83886080, 10240 KB)
+0694.245 (0) The time we have been running (694.2) is approaching the resumption interval (720) - increasing resumption interval to 725
+0694.247 (0) Dropbox chunked upload: 24.3 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 94371840, 10240 KB)
+0700.344 (0) The time we have been running (700.3) is approaching the resumption interval (725) - increasing resumption interval to 731
+0700.346 (0) Dropbox chunked upload: 27 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 104857600, 10240 KB)
+0705.268 (0) The time we have been running (705.3) is approaching the resumption interval (731) - increasing resumption interval to 736
+0705.270 (0) Dropbox chunked upload: 29.8 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 115343360, 10240 KB)
+0711.703 (0) The time we have been running (711.7) is approaching the resumption interval (736) - increasing resumption interval to 742
+0711.705 (0) Dropbox chunked upload: 32.5 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 125829120, 10240 KB)
+0717.096 (0) The time we have been running (717.1) is approaching the resumption interval (742) - increasing resumption interval to 748
+0717.108 (0) Dropbox chunked upload: 35.2 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 136314880, 10240 KB)
+0723.208 (0) The time we have been running (723.2) is approaching the resumption interval (748) - increasing resumption interval to 754
+0723.211 (0) Dropbox chunked upload: 37.9 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 146800640, 10240 KB)
+0728.244 (0) The time we have been running (728.2) is approaching the resumption interval (754) - increasing resumption interval to 759
+0728.246 (0) Dropbox chunked upload: 40.6 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 157286400, 10240 KB)
+0735.166 (0) The time we have been running (735.2) is approaching the resumption interval (759) - increasing resumption interval to 766
+0735.168 (0) Dropbox chunked upload: 43.3 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 167772160, 10240 KB)
+0740.230 (0) The time we have been running (740.2) is approaching the resumption interval (766) - increasing resumption interval to 771
+0740.250 (0) Dropbox chunked upload: 46 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 178257920, 10240 KB)
+0746.495 (0) The time we have been running (746.5) is approaching the resumption interval (771) - increasing resumption interval to 777
+0746.498 (0) Dropbox chunked upload: 48.7 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 188743680, 10240 KB)
+0751.873 (0) The time we have been running (751.9) is approaching the resumption interval (777) - increasing resumption interval to 782
+0751.876 (0) Dropbox chunked upload: 51.4 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 199229440, 10240 KB)
+0757.951 (0) The time we have been running (757.9) is approaching the resumption interval (782) - increasing resumption interval to 788
+0757.967 (0) Dropbox chunked upload: 54.1 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 209715200, 10240 KB)
+0762.913 (0) The time we have been running (762.9) is approaching the resumption interval (788) - increasing resumption interval to 793
+0762.915 (0) Dropbox chunked upload: 56.8 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 220200960, 10240 KB)
+0769.241 (0) The time we have been running (769.2) is approaching the resumption interval (793) - increasing resumption interval to 800
+0769.243 (0) Dropbox chunked upload: 59.5 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 230686720, 10240 KB)
+0774.216 (0) The time we have been running (774.2) is approaching the resumption interval (800) - increasing resumption interval to 805
+0774.234 (0) Dropbox chunked upload: 62.2 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 241172480, 10240 KB)
+0780.172 (0) The time we have been running (780.2) is approaching the resumption interval (805) - increasing resumption interval to 811
+0780.174 (0) Dropbox chunked upload: 64.9 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 251658240, 10240 KB)
+0786.001 (0) The time we have been running (786) is approaching the resumption interval (811) - increasing resumption interval to 816
+0786.003 (0) Dropbox chunked upload: 67.6 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 262144000, 10240 KB)
+0791.459 (0) The time we have been running (791.5) is approaching the resumption interval (816) - increasing resumption interval to 822
+0791.461 (0) Dropbox chunked upload: 70.3 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 272629760, 10240 KB)
+0797.611 (0) The time we have been running (797.6) is approaching the resumption interval (822) - increasing resumption interval to 828
+0797.614 (0) Dropbox chunked upload: 73 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 283115520, 10240 KB)
+0805.601 (0) The time we have been running (805.5) is approaching the resumption interval (828) - increasing resumption interval to 836
+0805.821 (0) Dropbox chunked upload: 75.7 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 293601280, 10240 KB)
+0811.914 (0) The time we have been running (811.9) is approaching the resumption interval (836) - increasing resumption interval to 842
+0811.918 (0) Dropbox chunked upload: 78.4 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 304087040, 10240 KB)
+0819.188 (0) The time we have been running (819.2) is approaching the resumption interval (842) - increasing resumption interval to 850
+0819.190 (0) Dropbox chunked upload: 81.1 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 314572800, 10240 KB)
+0826.058 (0) The time we have been running (826.1) is approaching the resumption interval (850) - increasing resumption interval to 857
+0826.073 (0) Dropbox chunked upload: 83.8 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 325058560, 10240 KB)
+0833.073 (0) The time we have been running (833.1) is approaching the resumption interval (857) - increasing resumption interval to 864
+0833.075 (0) Dropbox chunked upload: 86.6 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 335544320, 10240 KB)
+0839.613 (0) The time we have been running (839.6) is approaching the resumption interval (864) - increasing resumption interval to 870
+0839.616 (0) Dropbox chunked upload: 89.3 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 346030080, 10240 KB)
+0846.889 (0) The time we have been running (846.9) is approaching the resumption interval (870) - increasing resumption interval to 877
+0846.891 (0) Dropbox chunked upload: 92 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 356515840, 10240 KB)
+0852.393 (0) The time we have been running (852.4) is approaching the resumption interval (877) - increasing resumption interval to 883
+0852.396 (0) Dropbox chunked upload: 94.7 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 367001600, 10240 KB)
+0858.839 (0) The time we have been running (858.3) is approaching the resumption interval (883) - increasing resumption interval to 889
+0858.842 (0) Dropbox chunked upload: 97.4 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 377487360, 10240 KB)
+0863.892 (0) The time we have been running (863.9) is approaching the resumption interval (889) - increasing resumption interval to 894
+0863.894 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAbpOHWpMRMqXIw, 387670899, 10240 KB)
+0865.904 (0) Recording as successfully uploaded: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip (cbe4d8312226018fed00c6d814484a04)
+0866.022 (0) Deleting local file: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip: OK
+0866.024 (0) Dropbox: File upload success (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-uploads2.zip): 378584 KB in 222s (1704 KB/s)
+0866.533 (0) Dropbox quota usage: used=10692.9 MB, total=1050624 MB, available=1039931.1 MB
+0866.535 (0) Dropbox: Attempt to upload: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-others.zip to: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-others.zip
+0867.177 (0) The time we have been running (867.2) is approaching the resumption interval (894) - increasing resumption interval to 898
+0867.181 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAbv3_SEscs2sLg, 146, 10240 KB)
+0868.243 (0) Recording as successfully uploaded: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-others.zip (44408b069acfd9efb97339030c274384)
+0868.247 (0) Deleting local file: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-others.zip: OK
+0868.248 (0) Dropbox: File upload success (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-others.zip): 0 KB in 1s (0 KB/s)
+0868.746 (0) Dropbox quota usage: used=10692.9 MB, total=1050624 MB, available=1039931.1 MB
+0868.748 (0) Dropbox: Attempt to upload: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db.gz to: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db.gz
+0871.007 (0) The time we have been running (871) is approaching the resumption interval (898) - increasing resumption interval to 902
+0871.010 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAbx1jb8ZS56DKA, 3502927, 10240 KB)
+0873.079 (0) Recording as successfully uploaded: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db.gz (6073fb9caab2e87987650c20db94dfdc)
+0873.084 (0) Deleting local file: backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db.gz: OK
+0873.084 (0) Dropbox: File upload success (backup_2017-05-12-0431_Omnikron_6017b2ccb1c1-db.gz): 3420 KB in 4s (788 KB/s)
+0873.087 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0873.088 (0) Number of backup sets in history: 3; groups (db): 1
+0873.089 (0) Examining (for databases) backup set with group_id=0, nonce=6017b2ccb1c1, datestamp=1494563497 (May 12 2017 04:31:37)
+0873.090 (0) This backup set is the backup set just made, so will not be deleted.
+0873.091 (0) Examining (for databases) backup set with group_id=0, nonce=67421b1289d2, datestamp=1494206281 (May 08 2017 01:18:01)
+0873.092 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0873.092 (0) Examining (for databases) backup set with group_id=0, nonce=7d6153b6b350, datestamp=1493946797 (May 05 2017 01:13:17)
+0873.093 (0) 1493946797: db: this set includes a database (backup_2017-05-05-0113_Omnikron_7d6153b6b350-db.gz); db count is now 2
+0873.094 (0) 1493946797: db: over retain limit (2); will delete this database
+0873.095 (0) Delete file: backup_2017-05-05-0113_Omnikron_7d6153b6b350-db.gz, service=dropbox
+0873.096 (0) Dropbox: request deletion: backup_2017-05-05-0113_Omnikron_7d6153b6b350-db.gz
+0873.827 (0) Dropbox: delete succeeded
+0873.832 (0) The time we have been running (873.8) is approaching the resumption interval (902) - increasing resumption interval to 904
+0873.834 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0873.835 (0) Number of backup sets in history: 3; groups (files): 1
+0873.836 (0) Examining (for files) backup set with nonce=6017b2ccb1c1, datestamp=1494563497 (May 12 2017 04:31:37)
+0873.837 (0) This backup set is the backup set just made, so will not be deleted.
+0873.838 (0) This backup set is the backup set just made, so will not be deleted.
+0873.838 (0) This backup set is the backup set just made, so will not be deleted.
+0873.838 (0) This backup set is the backup set just made, so will not be deleted.
+0873.838 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0873.839 (0) Examining (for files) backup set with nonce=67421b1289d2, datestamp=1494206281 (May 08 2017 01:18:01)
+0873.840 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0873.841 (0) Examining (for files) backup set with nonce=7d6153b6b350, datestamp=1493946797 (May 05 2017 01:13:17)
+0873.842 (0) plugins: over retain limit (2); will delete this file entity
+0873.843 (0) themes: over retain limit (2); will delete this file entity
+0873.844 (0) uploads: over retain limit (2); will delete this file entity
+0873.844 (0) others: over retain limit (2); will delete this file entity
+0873.845 (0) Delete file: backup_2017-05-05-0113_Omnikron_7d6153b6b350-plugins.zip, service=dropbox
+0873.846 (0) Delete file: backup_2017-05-05-0113_Omnikron_7d6153b6b350-themes.zip, service=dropbox
+0873.847 (0) Delete file: backup_2017-05-05-0113_Omnikron_7d6153b6b350-uploads.zip, service=dropbox
+0873.847 (0) Delete file: backup_2017-05-05-0113_Omnikron_7d6153b6b350-uploads2.zip, service=dropbox
+0873.848 (0) Delete file: backup_2017-05-05-0113_Omnikron_7d6153b6b350-others.zip, service=dropbox
+0873.849 (0) Dropbox: request deletion: backup_2017-05-05-0113_Omnikron_7d6153b6b350-plugins.zip
+0874.699 (0) Dropbox: delete succeeded
+0874.701 (0) Dropbox: request deletion: backup_2017-05-05-0113_Omnikron_7d6153b6b350-themes.zip
+0875.429 (0) Dropbox: delete succeeded
+0875.431 (0) Dropbox: request deletion: backup_2017-05-05-0113_Omnikron_7d6153b6b350-uploads.zip
+0876.129 (0) Dropbox: delete succeeded
+0876.131 (0) Dropbox: request deletion: backup_2017-05-05-0113_Omnikron_7d6153b6b350-uploads2.zip
+0876.952 (0) Dropbox: delete succeeded
+0876.955 (0) Dropbox: request deletion: backup_2017-05-05-0113_Omnikron_7d6153b6b350-others.zip
+0877.626 (0) Dropbox: delete succeeded
+0877.632 (0) The time we have been running (877.6) is approaching the resumption interval (904) - increasing resumption interval to 908
+0877.634 (0) This backup set is now empty; will remove from history
+0877.635 (0) Deleting log file (log.7d6153b6b350.txt)
+0877.675 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0877.680 (0) Resume backup (6017b2ccb1c1, 0): finish run
+0877.682 (0) Decremented the semaphore (fd) by 1
+0877.683 (0) Semaphore (fd) unlocked
+0877.684 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0877.688 (0) No email will/can be sent - the user has not configured an email address.
+0877.689 (0) The backup apparently succeeded and is now complete

@@ -1,0 +1,8 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+	.options_bridge_woo .select2-container-multi .select2-choices .select2-search-field input{
+		width : 215px !important;
+	}

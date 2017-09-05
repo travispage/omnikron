@@ -1,0 +1,1 @@
+[24-May-2017 08:33:21 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_header() in /home/travis/public_html/wp-content/themes/polytechnic/index.php on line 14

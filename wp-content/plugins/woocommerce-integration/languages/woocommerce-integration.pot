@@ -1,0 +1,319 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Integration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Jan 17 2017 12:27:01 GMT+0530 (IST)\n"
+"POT-Revision-Date: Tue Jan 17 2017 12:28:27 GMT+0530 (IST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../public/class-bridge-woocommerce-public.php:99 ../public/class-bridge-
+#: woocommerce-public.php:303
+msgid "Cancel"
+msgstr ""
+
+#: ../public/class-bridge-woocommerce-public.php:100
+msgid "Resume"
+msgstr ""
+
+#: ../public/class-bridge-woocommerce-public.php:165
+msgid "Available courses"
+msgstr ""
+
+#: ../public/class-bridge-woocommerce-public.php:184 ..
+#: /public/templates/emails/associated-courses-order-email.php:46 ..
+#: /includes/class-bridge-woocommerce-product-manager.php:162 ../includes/class-
+#: bridge-woocommerce-product-manager.php:312
+msgid "Courses"
+msgstr ""
+
+#: ../public/class-bridge-woocommerce-public.php:297
+#, php-format
+msgid "You will be redirected to %s within next %s seconds."
+msgstr ""
+
+#: ../public/class-bridge-woocommerce-public.php:298
+msgid "My Courses Page"
+msgstr ""
+
+#: ../public/class-bridge-woocommerce-public.php:345 ../admin/settings/class-
+#: bridge-woocommerce-settings.php:71
+msgid "Buy Now"
+msgstr ""
+
+#: ../public/templates/associated-courses-product-page.php:10
+msgid "Associated Courses"
+msgstr ""
+
+#: ../includes/class-bridge-woocommerce-product-manager.php:74
+msgid "WooCommerce Integration"
+msgstr ""
+
+#: ../includes/class-bridge-woocommerce-product-manager.php:176
+msgid "Associate product with courses."
+msgstr ""
+
+#: ../includes/class-bridge-woocommerce-product-manager.php:224
+msgid "Product Options"
+msgstr ""
+
+#: ../includes/class-bridge-woocommerce-product-manager.php:313
+msgid "Associate product with courses"
+msgstr ""
+
+#: ../includes/class-bridge-woocommerce-course.php:208
+msgid "Product(s) created."
+msgstr ""
+
+#: ../includes/class-bridge-woocommerce-course.php:210
+msgid "Courses for synchronization not found. All products may be already created."
+msgstr ""
+
+#: ../includes/class-bridge-woocommerce-course.php:330
+msgid "Product(s) updated."
+msgstr ""
+
+#: ../includes/class-bridge-woocommerce-course.php:332
+msgid "Product for update not found."
+msgstr ""
+
+#: ../includes/class-bridge-woocommerce-course.php:434
+msgid "Categories synchronized."
+msgstr ""
+
+#: ../includes/class-bridge-woocommerce-course.php:436
+msgid "Categories not found, Please synchronize course categories before this."
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:79
+#, php-format
+msgid "Please enter license key for %s"
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:89 ../includes/class-
+#: bridge-woo-add-plugin-data-in-db.php:106
+#, php-format
+msgid "License Key for %s is already activated at : %s"
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:99
+#, php-format
+msgid "Please enter valid license key for %s"
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:113
+msgid "Site inactive(Press Activate license to activate plugin)"
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:120
+#, php-format
+msgid "License Key for %s is deactivated"
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:138
+#, php-format
+msgid "License key for %s is activated."
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:145
+#, php-format
+msgid ""
+"License key for %s has Expired. Please, Renew it.<br/>Your License Key is "
+"already activated at : %s"
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:152
+#, php-format
+msgid "License key for %s has Expired. Please, Renew it."
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:159
+#, php-format
+msgid "License key for %s is Disabled."
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:190 ../includes/class-
+#: bridge-woo-add-plugin-data-in-db.php:195
+msgid "Deactivate License"
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:192 ../includes/class-
+#: bridge-woo-add-plugin-data-in-db.php:198
+msgid "Activate License"
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:193 ../includes/class-
+#: bridge-woo-add-plugin-data-in-db.php:196
+msgid "Renew License"
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:217 ../includes/class-
+#: bridge-woo-add-plugin-data-in-db.php:226
+msgid "Active"
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:220 ../includes/class-
+#: bridge-woo-add-plugin-data-in-db.php:232
+msgid "Not Active"
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:223
+msgid "Expired"
+msgstr ""
+
+#: ../includes/class-bridge-woo-add-plugin-data-in-db.php:229
+msgid "Invalid Key"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wisdmlabs.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Integrates Moodle Courses with WooCommerce product & enrolls User on Product "
+"purchase. This plugin is extension of - Edwiser Bridge & WooCommerce."
+msgstr ""
+
+#. Author of the plugin
+msgid "WisdmLabs"
+msgstr ""
+
+#: ../bridge-woocommerce.php:145
+#, php-format
+msgid "%s is inactive. Install and activate %s and %s for %s to work."
+msgstr ""
+
+#: ../bridge-woocommerce.php:147 ../bridge-woocommerce.php:163
+msgid "WooCommerce"
+msgstr ""
+
+#: ../bridge-woocommerce.php:148 ../bridge-woocommerce.php:178
+msgid "EdwiserBridge"
+msgstr ""
+
+#: ../bridge-woocommerce.php:161 ../bridge-woocommerce.php:176
+#, php-format
+msgid "%s is inactive. Install and activate %s for %s to work."
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:116
+msgid "Select any course"
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:132
+msgid ""
+"Some users are enrolled to this course. By trashing they will be unenrolled. "
+"Do you still want to continue?"
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:133
+msgid ""
+"Some users are enrolled in the selected courses. By trashing they will be "
+"unenrolled. Do you still want to continue?"
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:163 ../admin/class-bridge-
+#: woocommerce-admin.php:167
+msgid "Products"
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:187
+msgid "Synchronize Products"
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:192
+msgid "WooCommerce Synchronization Options"
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:193
+msgid "Create courses as products."
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:202
+msgid "Update courses as products."
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:211
+msgid "Publish synchronized products."
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:220
+msgid "Synchronize categories."
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:253
+msgid "Loading..."
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:254
+msgid "Please select proper options."
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:326
+msgid "You cannot rollback this action!"
+msgstr ""
+
+#: ../admin/class-bridge-woocommerce-admin.php:328
+msgid "Unenroll from purchased courses?"
+msgstr ""
+
+#: ../admin/settings/class-bridge-woocommerce-settings.php:34
+msgid "Woo Integration"
+msgstr ""
+
+#: ../admin/settings/class-bridge-woocommerce-settings.php:54
+msgid "WooCommerce Integration Options"
+msgstr ""
+
+#: ../admin/settings/class-bridge-woocommerce-settings.php:60
+msgid "One Click Checkout"
+msgstr ""
+
+#: ../admin/settings/class-bridge-woocommerce-settings.php:61
+msgid ""
+"This enables <strong>Buy Now</strong> button for simple products. Using this,"
+" users will be directly redirected to <strong>Single Cart Checkout</strong> "
+"page and the product will be added to their cart."
+msgstr ""
+
+#: ../admin/settings/class-bridge-woocommerce-settings.php:68
+msgid "Buy Now Button Text"
+msgstr ""
+
+#: ../admin/settings/class-bridge-woocommerce-settings.php:69
+msgid ""
+"This text will be shown on <strong>Buy Now</strong> button. Default will be "
+"<strong>Buy Now</strong>."
+msgstr ""
+
+#: ../admin/settings/class-bridge-woocommerce-settings.php:76
+msgid "Single Cart Checkout Page"
+msgstr ""
+
+#: ../admin/settings/class-bridge-woocommerce-settings.php:77
+msgid ""
+"Add shortcode <code>[bridge_woo_single_cart_checkout]</code> in the selected "
+"page."
+msgstr ""
+
+#: ../admin/settings/class-bridge-woocommerce-settings.php:83
+msgid "- Select a page -"
+msgstr ""
